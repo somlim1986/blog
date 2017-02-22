@@ -1,4 +1,4 @@
-<form>
+<form method="POST" action="/users">
 {!! csrf_field() !!}
 <table width="300" border="0" align="center" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
 <tr>
